@@ -2,8 +2,7 @@
 
 Welcome to my GitHub! I’m a passionate Electrical & Computer Engineer with hands-on experience in embedded systems, control design, and MIL/SIL/HIL validation in the automotive domain. I enjoy working on real-time simulations, model-based development, and control strategies for ECU testing and validation.
 
-🔧 **HIL Validation Engineer | Automotive Embedded Systems Developer**  
-🎓 **M.S. in Electrical & Computer Engineering | Oakland University (Dec 2024)**
+🎓 **Master's Degree in Electrical & Computer Engineering | Oakland University (Dec 2024)**
 
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
